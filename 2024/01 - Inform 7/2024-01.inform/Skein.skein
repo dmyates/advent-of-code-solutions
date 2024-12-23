@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skein rootNode="node-0x5a69c8132ba0" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Inform 7</generator>
+  <activeNode nodeId="node-0x5a69c8132ba0"/>
+  <item nodeId="node-0x5a69c8132ba0">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">
+
+
+
+Historian Hysteria P1 Solution
+An Interactive Fiction by David Yates
+Release 1 / Serial number 241216 / Inform 7 v10.1.2 / D
+
+Chief Historian&apos;s Office
+Elves run amuck looking for location IDs.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x5a69c81d0da0"/>
+      <child nodeId="node-0x5a69c7c64660"/>
+    </children>
+  </item>
+  <item nodeId="node-0x5a69c81d0da0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">The elves diff the lists...
+The elves add it all together...
+The elves tell you that the answer is 1258579.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x5a69c81ee8b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x5a69c81ee8b0">
+    <command xml:space="preserve">yes</command>
+    <result xml:space="preserve">The elves tell you the answer is 2004474.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x5a69c7c64660">
+    <command xml:space="preserve">yes</command>
+    <result xml:space="preserve">The elves tell you the answer is 23981443.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+</Skein>
