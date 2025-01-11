@@ -6,7 +6,7 @@ A different language each day. See the blog posts below:
 
 * [Days 1–5](https://davidyat.es/2024/12/16/aoc-2024-part1)
 * [Days 6–10](https://davidyat.es/2024/12/23/aoc-2024-part2)
-* Days 11–15 TODO
+* [Days 11–15](https://davidyat.es/2025/01/11/aoc-2024-part3)
 * Days 16–20 TODO
 * Days 21–25 TODO
 
@@ -22,3 +22,8 @@ In summary:
 8. Io
 9. J
 10. Solidity
+11. Rust
+12. C
+13. Octave
+14. Lua + Love2D
+15. JavaScript + KaPlay
