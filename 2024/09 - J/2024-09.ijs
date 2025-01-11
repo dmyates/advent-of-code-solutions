@@ -45,6 +45,7 @@ defragment =: 3 : 0
     file_ids =. |. i.(>. -: (#y))
     disk =. expand y
 
+    echo disk
     for_fid. file_ids do.
         positions =. (< fid) I.@:E. disk NB. indices of file ID in disk map
         file =. (# positions) # (< fid) NB. full size file
@@ -54,6 +55,7 @@ defragment =: 3 : 0
             disk =. (file) (space_enough +i.#file) } disk NB. replace free space with file
             disk =. (space) (positions) } disk NB. replace file with free space
         end.
+        echo disk
     end.
     disk
 )
